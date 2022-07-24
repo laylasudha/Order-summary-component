@@ -44,7 +44,7 @@ p{
     font-family: inherit;
 }
 .bg_img{
-    background: url("./pattern-background-mobile.svg");
+    background: url("pattern-background-mobile.svg");
     background-repeat: no-repeat;
     background-size: center/cover;
     height:400px;
@@ -60,7 +60,7 @@ p{
 @media (min-width: 768px){
     
     .bg_img{
-        background: url("./pattern-background-desktop.svg");
+        background: url("pattern-background-desktop.svg");
         background-repeat: no-repeat;
         background-size: cover/center;
         height:50vh;
